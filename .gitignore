@@ -1,2 +1,41 @@
 raw
 visuals
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Jupyter
+.ipynb_checkpoints
+
+
+# Environments
+.env
+.venv/
+.venv/*
+
+
+# Data
+data/raw/
+data/clean/
+
+
+# DVC
+*.dvc
+.cache/
+
+
+# Visuals & outputs
+visuals/
+reports/
+
+
+# IDE
+.vscode/
+.idea/
+
+
+# OS
+.DS_Store
+Thumbs.db
